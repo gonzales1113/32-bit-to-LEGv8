@@ -15,5 +15,8 @@ Mailee G.
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
+Inspiration:
 * [LEGv8-Encoder](https://github.com/J0K3Rn/LEGv8-Encoder)
+
+Code Snippet used for this README.md Template:
+* [README-Template.md](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
